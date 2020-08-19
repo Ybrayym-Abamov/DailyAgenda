@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DailyAgenda/static/css/main.649c2adf.chunk.css",
+    "main.js": "/DailyAgenda/static/js/main.a5c71d91.chunk.js",
+    "main.js.map": "/DailyAgenda/static/js/main.a5c71d91.chunk.js.map",
+    "runtime-main.js": "/DailyAgenda/static/js/runtime-main.44c26004.js",
+    "runtime-main.js.map": "/DailyAgenda/static/js/runtime-main.44c26004.js.map",
+    "static/js/2.9aa71a27.chunk.js": "/DailyAgenda/static/js/2.9aa71a27.chunk.js",
+    "static/js/2.9aa71a27.chunk.js.map": "/DailyAgenda/static/js/2.9aa71a27.chunk.js.map",
+    "index.html": "/DailyAgenda/index.html",
+    "precache-manifest.4531c86269500defdf812e62fb5154c2.js": "/DailyAgenda/precache-manifest.4531c86269500defdf812e62fb5154c2.js",
+    "service-worker.js": "/DailyAgenda/service-worker.js",
+    "static/css/main.649c2adf.chunk.css.map": "/DailyAgenda/static/css/main.649c2adf.chunk.css.map",
+    "static/js/2.9aa71a27.chunk.js.LICENSE.txt": "/DailyAgenda/static/js/2.9aa71a27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44c26004.js",
+    "static/js/2.9aa71a27.chunk.js",
+    "static/css/main.649c2adf.chunk.css",
+    "static/js/main.a5c71d91.chunk.js"
+  ]
+}
